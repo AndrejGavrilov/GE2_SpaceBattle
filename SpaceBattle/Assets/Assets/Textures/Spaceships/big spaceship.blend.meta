@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 58c5f20ca89c1b4469628115c48ed80e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: antennae
+    100002: balldetail
+    100004: //RootNode
+    100006: botturgun
+    100008: bowdetail3
+    100010: bowdetail4
+    100012: commarray1
+    100014: conningtwr
+    100016: engineoutr
+    100018: hull
+    100020: hullinner
+    100022: hump
+    100024: star-main
+    100026: starfin
+    100028: sulaco
+    100030: topturgun
+    400000: antennae
+    400002: balldetail
+    400004: //RootNode
+    400006: botturgun
+    400008: bowdetail3
+    400010: bowdetail4
+    400012: commarray1
+    400014: conningtwr
+    400016: engineoutr
+    400018: hull
+    400020: hullinner
+    400022: hump
+    400024: star-main
+    400026: starfin
+    400028: sulaco
+    400030: topturgun
+    2300000: antennae
+    2300002: balldetail
+    2300004: botturgun
+    2300006: bowdetail3
+    2300008: bowdetail4
+    2300010: commarray1
+    2300012: conningtwr
+    2300014: engineoutr
+    2300016: hull
+    2300018: hullinner
+    2300020: hump
+    2300022: star-main
+    2300024: starfin
+    2300026: sulaco
+    2300028: topturgun
+    3300000: antennae
+    3300002: balldetail
+    3300004: botturgun
+    3300006: bowdetail3
+    3300008: bowdetail4
+    3300010: commarray1
+    3300012: conningtwr
+    3300014: engineoutr
+    3300016: hull
+    3300018: hullinner
+    3300020: hump
+    3300022: star-main
+    3300024: starfin
+    3300026: sulaco
+    3300028: topturgun
+    4300000: topturgun
+    4300002: star-main
+    4300004: starfin
+    4300006: balldetail
+    4300008: sulaco
+    4300010: hump
+    4300012: hull
+    4300014: hullinner
+    4300016: engineoutr
+    4300018: conningtwr
+    4300020: commarray1
+    4300022: bowdetail4
+    4300024: bowdetail3
+    4300026: botturgun
+    4300028: antennae
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

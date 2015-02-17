@@ -1,0 +1,195 @@
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/c6.jpg
+
+newmtl default_skin_top
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/1pt.jpg
+
+newmtl default_windows
+d 0.8
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_frames
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl default_wings
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/1pt.jpg
+
+newmtl default_entry
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.286275 0.282353 0.254902
+Ks 1 1 1
+Km 0
+map_Kd /Maps/cp2.jpg
+
+newmtl default_exhaust
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/cp2.jpg
+
+newmtl default_fire
+d 1
+Ns 1
+Ni 0
+Ka 0 1 1
+Kd 0 1 1
+Ks 1 1 1
+Km 0
+
+newmtl default_interiors
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/gm1.jpg
+
+newmtl default_inner
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd /Maps/yx1_02_01_01.jpg
+
+newmtl default_interiors_interiors
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/ddt_03_01_01_01_01_01_01_01.jpg
+
+newmtl default_control_rudder_display_dual
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/CockpitHUD.jpg
+
+newmtl default_inner_doors
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/elem4b.jpg
+
+newmtl default_engine_power_control
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/sde2.jpg
+
+newmtl default_engine_power
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_control
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/c5b.jpg
+
+newmtl default_cushions
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd /Maps/yx1_02_01_01.jpg
+
+newmtl default_middle_console_display
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/dnw1.jpg
+
+newmtl default_extras
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.25098 0.239216 0.290196
+Ks 1 1 1
+Km 0
+
+newmtl default_doors_closed
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/c6.jpg
+
