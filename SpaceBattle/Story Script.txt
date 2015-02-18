@@ -1,0 +1,20 @@
+Script.
+
+-The first Scene will consist of a planet system in which all the action will take place. The camera will show a close up of a planet and will zoom out.
+
+-The system will be a small system consisting of 4 planets and a dying sun around which the planets will rotate.
+
+-In that scene there will be 3 types of actions taking place.
+
+-First will be an arrival of an old pirate battleship which will be heading towards one of the planets while escaping from an Alien BattleShip which is following them. The camera will show both ship flying past and then will attach itself to a 3rd person view of the alien ship.
+
+-Seconds is the Alien battleship which will be shooting at the pirate battleship and trying to catch up with it before they reach the planet. Here the pirate ship will start flying in wobble as if avoiding the lasers shot by the chaser.
+
+- Third is when a fleet of spaceships from the Alien race is trying to cut them of by appearing to support the chasing battleship. They try and engage the pirate battleship but the ship is well protected and it seems like it will make it to the planet surface. But the alien race land their final wave of attack using a big laser turret ship and manage to badly damage the pirate battleship which catches fire as it approaches the planets stratosphere. the camera will switch between the turret ship and the whole view of the battle.
+
+-Final act. The pirate ship starts to evacuate and many small space ships start to fly away from the pirate battleship and away. While the damaged battleship descends onto the planet and crashes.
+A close up of the ship where evacuating space craft are appearing.
+
+-The End
+
+ 
